@@ -1,0 +1,61 @@
+@misc{lurie2009higher,
+  title={Higher topos theory, volume 170 of Annals of Mathematics Studies},
+  author={Lurie, Jacob},
+  year={2009},
+  publisher={Princeton University Press, Princeton, NJ}
+}
+
+@misc{lurie2012higher,
+  title={Higher algebra},
+  author={Lurie, Jacob},
+  year={2012}
+}
+
+@misc{laumon2000champs,
+  title={Champs algebriques (French), number 39 in Ergebnisse der Mathematik und ihrer Grenzgebiete},
+  author={Laumon, G{\'e}rard and Moret-Bailly, Laurent},
+  year={2000},
+  publisher={Springer-Verlag}
+}
+
+@article{gaitsgory2015atiyah,
+  title={The Atiyah-Bott formula for the cohomology of the moduli space of bundles on a curve},
+  author={Gaitsgory, Dennis},
+  journal={arXiv preprint arXiv:1505.02331},
+  year={2015}
+}
+
+@article{deligne1980conjecture,
+  title={La conjecture de Weil. II},
+  author={Deligne, Pierre},
+  journal={Publications Math{\'e}matiques de l'IH{\'E}S},
+  volume={52},
+  number={1},
+  pages={137--252},
+  year={1980},
+  publisher={Springer}
+}
+@article{gaitsgory2014weil,
+  title={Weil’s conjecture for function fields},
+  author={Gaitsgory, Dennis and Lurie, Jacob},
+  journal={Preprint. Available at http://www. math. harvard. edu/lurie},
+  year={2014}
+}
+
+@article{gaitsgorystudy,
+  title={A study in derived algebraic geometry},
+  author={Gaitsgory, Dennis and Rozenblyum, Nick},
+  journal={preparation, preliminary version will gradually become available at http://www. math. harvard. edu/gaitsgde/GL}
+}
+
+@article{drinfeld2013some,
+  title={On some finiteness questions for algebraic stacks},
+  author={Drinfeld, Vladimir and Gaitsgory, Dennis},
+  journal={Geometric and Functional Analysis},
+  volume={23},
+  number={1},
+  pages={149--294},
+  year={2013},
+  publisher={Springer}
+}
+
